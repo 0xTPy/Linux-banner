@@ -52,10 +52,9 @@ BUT !
 CTRL + SHIFT + C / CTRL + SHIFT + V
 
 3) at the beginning of each line of your ASCII you must write echo " ...... "
-                                                                                                                                            /\
-                                                                                                                                             |
+                                                                                                                                           
 
-                                                                                                                     END OF ASCII
+                                                                                                                    
 <p align="center">
                         =============================<br>
 <b>                         /!\ WARNING /!\</b><br>
@@ -90,10 +89,7 @@ En Linux para copiar y pegar en una terminal no es CTRL + C / CTRL + V
 CTRL + SHIFT + C / CTRL + SHIFT + V
 
 3) Al principio de cada línea de tu ASCII debes escribir echo " ...... "
-                                                                                                                                            /\
-                                                                                                                                             |
-
-                                                                                                                     FIN DEL ASCII
+                                                                                                                               
 <p align="center">
                         =============================<br>
 <b>                         /!\ ADVERTENCIA /!\</b><br>
