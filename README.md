@@ -38,8 +38,10 @@ Here, you can display your distribution's logo or another drawing in just a few 
 
 STEPS :
 
-1) Open your terminal and type the following command : `nano ~/.bashrc`
-
+1) Open your terminal and type the following command :
+     ```bash
+     nano ~/.bashrc
+     
 2) Scroll all the way down with the arrows on your keyboard.
 
 3) Once at the very bottom, skip a line and paste your ASCII art from my examples or from a site.
@@ -75,8 +77,10 @@ Aquí puedes mostrar el logotipo de tu distribución u otro dibujo en unos pocos
 
 PASOS:
 
-1) Abre tu terminal y escribe el siguiente comando: `nano ~/.bashrc`
-
+1) Abre tu terminal y escribe el siguiente comando:
+     ```bash
+     nano ~/.bashrc
+     
 2) Baja hasta el fondo con las flechas de tu teclado.
 
 3) Una vez abajo del todo, salta una línea y pega tu arte ASCII de mis ejemplos o de un sitio web.
