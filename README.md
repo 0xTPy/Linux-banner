@@ -9,11 +9,12 @@ Ici, vous pouvez afficher en quelques commandes le logo de votre distribution ou
   2) Descendez tout en bas avec les flèches de votre clavier.
 
   3) Une fois tout en bas, sautez une ligne et collez votre art ASCII.
-     
-**`                     =============================`**
-**`                            /!\ ATTENTION /!\`**
-**`                     =============================`**
-  
+
+<p align="center">
+                        =============================<br>
+<b>                           /!\ ATTENTION /!\</b><br>
+                        =============================
+  </p>
 Sur Linux, pour copier-coller dans un terminal, ce n'est pas CTRL + C / CTRL + V, mais :
 CTRL + SHIFT + C / CTRL + SHIFT + V
 
