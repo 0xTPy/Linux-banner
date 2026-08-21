@@ -30,6 +30,7 @@ CTRL + SHIFT + C / CTRL + SHIFT + V
 You can look at the examples in "ASCII-linux" to help you !
 
 SITES :
+
   https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false
   
   https://emojicombos.com/linux
