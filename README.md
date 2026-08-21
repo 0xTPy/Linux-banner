@@ -4,7 +4,7 @@ Vous voulez personnaliser votre terminal Linux ? Vous êtes au bon endroit !
 Ici, vous pouvez afficher en quelques commandes le logo de votre distribution ou un autre dessin au lancement de votre terminal.
 
 Étapes :
-  1) Ouvrez votre terminal et tapez la commande suivante : ```nano ~/.bashrc```
+  1) Ouvrez votre terminal et tapez la commande suivante : ```bash nano ~/.bashrc
 
   2) Descendez tout en bas avec les flèches de votre clavier.
 
