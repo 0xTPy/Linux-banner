@@ -48,7 +48,12 @@ STEPS :
 
 3) Once at the very bottom, skip a line and paste your ASCII art from my examples or from a site.
 
-/!\ WARNING /!\
+<p align="center">
+                        =============================<br>
+<b>                         /!\ WARNING /!\</b><br>
+                        =============================
+  </p>
+  
 On Linux to copy-paste in a terminal it is not CTRL + C / CTRL + V 
 
 BUT !
@@ -56,14 +61,6 @@ BUT !
 CTRL + SHIFT + C / CTRL + SHIFT + V
 
 3) at the beginning of each line of your ASCII you must write echo " ...... "
-                                                                                                                                           
-
-                                                                                                                    
-<p align="center">
-                        =============================<br>
-<b>                         /!\ WARNING /!\</b><br>
-                        =============================
-  </p>
 
 You can look at the examples in "ASCII-linux" to help you !
 
@@ -89,7 +86,12 @@ PASOS:
 
 3) Una vez abajo del todo, salta una línea y pega tu arte ASCII de mis ejemplos o de un sitio web.
 
-/!\ ADVERTENCIA /!\
+<p align="center">
+                        =============================<br>
+<b>                         /!\ ADVERTENCIA /!\</b><br>
+                        =============================
+  </p>
+  
 En Linux para copiar y pegar en una terminal no es CTRL + C / CTRL + V 
 
 ¡PERO!
@@ -97,12 +99,6 @@ En Linux para copiar y pegar en una terminal no es CTRL + C / CTRL + V
 CTRL + SHIFT + C / CTRL + SHIFT + V
 
 3) Al principio de cada línea de tu ASCII debes escribir echo " ...... "
-                                                                                                                               
-<p align="center">
-                        =============================<br>
-<b>                         /!\ ADVERTENCIA /!\</b><br>
-                        =============================
-  </p>
 
 ¡Puedes mirar los ejemplos en "ASCII-linux" para ayudarte!
 
