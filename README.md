@@ -26,6 +26,7 @@ Vous pouvez regarder les exemples dans le dossier " ASCII-linux" pour vous aider
 
 SITES :
 
+Voici quelques sites que je vous conseille pour copier/coller l’ascii qui vous convient 
   https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false
   
   https://emojicombos.com/linux
