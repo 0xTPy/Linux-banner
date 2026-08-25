@@ -1,7 +1,5 @@
 # linux-banner
 
-|FR|
-
 Vous voulez personnaliser votre terminal Linux ? Vous êtes au bon endroit !
 Ici, vous pouvez afficher en quelques commandes le logo de votre distribution ou un autre dessin au lancement de votre terminal.
 
