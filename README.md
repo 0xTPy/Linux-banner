@@ -1,6 +1,5 @@
 # linux-banner
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/OS-Linux-orange.svg" alt="OS Linux">
   <img src="https://img.shields.io/badge/Language-Bash-blue.svg" alt="Bash">
 </p>
