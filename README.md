@@ -1,5 +1,9 @@
 # linux-banner
-
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/OS-Linux-orange.svg" alt="OS Linux">
+  <img src="https://img.shields.io/badge/Language-Bash-blue.svg" alt="Bash">
+</p>
 Vous voulez personnaliser votre terminal Linux ? Vous êtes au bon endroit !
 Ici, vous pouvez afficher en quelques commandes le logo de votre distribution ou un autre dessin au lancement de votre terminal.
 
