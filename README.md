@@ -25,7 +25,7 @@ CTRL + SHIFT + C / CTRL + SHIFT + V
 
 Au début de chaque ligne de votre ASCII, vous devez écrire echo " ...... ".
 
-Vous pouvez regarder les exemples dans le dossier " ASCII-linux" pour vous aider !
+Vous pouvez regarder les exemples dans le dossier "ASCII-linux" pour vous aider !
 
 SITES :
 
